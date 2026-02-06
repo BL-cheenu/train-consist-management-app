@@ -12,6 +12,13 @@ import java.util.List;
  * @version 1.0
  */
 
+/**
+ * Hint:
+ * - Print the welcome message.
+ * - Create an empty ArrayList to store bogies.
+ * - Display the initial bogie count using size().
+ */
+
 
 public class TrainApp  {
     public static void main(String[] args) {
