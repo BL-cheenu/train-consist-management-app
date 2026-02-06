@@ -6,6 +6,9 @@ import java.util.Set;
  *
  * This program demonstrates how HashSet ensures that
  * duplicate bogie IDs are not stored in the collection.
+ *
+ * @author User
+ * @version 3.0
  */
 
 /**
